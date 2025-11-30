@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-faiss-cpu
-sentence-transformers
-google-generativeai
-protobuf==3.20.3
